@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_service_status" type="id" />
+    <item name="btn_start" type="id" />
+    <item name="btn_stop" type="id" />
+    <item name="fullscreen_content" type="id" />
+    <item name="dummy_button" type="id" />
+    <item name="fullscreen_content_controls" type="id" />
+</resources>
